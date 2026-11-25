@@ -59,20 +59,6 @@ Strings live in `Localization/en-us.cfg` and `Localization/it-it.cfg`. To add a
 language, copy `en-us.cfg`, rename the inner node to your language code and
 translate the values. Keep the `@/...` placeholders as they are.
 
-## Repository layout
-
-```
-GameData/ContractPacks/StationDecommission/   <- the mod, this is what gets installed
-    StationDecommission.cfg
-    StationDecommission.version
-    LICENSE.txt
-    Localization/{en-us,it-it}.cfg
-README.md, CHANGELOG.md, LICENSE              <- repository front page
-```
-
-To make a release, zip the top-level `GameData` folder. `LICENSE` at the root and
-`LICENSE.txt` inside the mod folder must stay identical.
-
 ## License
 
 MIT. See [`LICENSE`](LICENSE). Bases and Stations is Copyright (c) severedsolo 2015,
