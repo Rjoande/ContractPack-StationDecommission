@@ -1,0 +1,16 @@
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Release artifacts
+*.zip
+/release/
+/build/
+
+# Local session files (Claude Code)
+CLAUDE.md
+notes/
+.claude/settings.local.json

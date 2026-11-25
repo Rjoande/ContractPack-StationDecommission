@@ -1,0 +1,30 @@
+{
+	"NAME": "Contract Pack: Station Decommission",
+	"URL": "https://raw.githubusercontent.com/Rjoande/ContractPack-StationDecommission/main/GameData/ContractPacks/StationDecommission/StationDecommission.version",
+	"DOWNLOAD": "https://github.com/Rjoande/ContractPack-StationDecommission/releases",
+	"GITHUB": {
+		"USERNAME": "Rjoande",
+		"REPOSITORY": "ContractPack-StationDecommission"
+	},
+	"VERSION": {
+		"MAJOR": 1,
+		"MINOR": 0,
+		"PATCH": 0,
+		"BUILD": 0
+	},
+	"KSP_VERSION": {
+		"MAJOR": 1,
+		"MINOR": 12,
+		"PATCH": 5
+	},
+	"KSP_VERSION_MIN": {
+		"MAJOR": 1,
+		"MINOR": 8,
+		"PATCH": 1
+	},
+	"KSP_VERSION_MAX": {
+		"MAJOR": 1,
+		"MINOR": 12,
+		"PATCH": 99
+	}
+}

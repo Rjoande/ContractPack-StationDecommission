@@ -1,2 +1,8 @@
-# Auto detect text files and perform LF normalization
+# Normalize line endings in the repo; checkout follows the user's platform setting.
 * text=auto
+
+# KSP config and data files
+*.cfg     text
+*.version text
+*.md      text
+*.txt     text
